@@ -1,5 +1,5 @@
 const BLOG = {
-  title: 'Dario's Blog',
+  title: 'Dario Homepage',
   author: 'Dario Zhang',
   email: 'donoghzhang@gmail.com',
   link: 'https://dariolink.ga',
